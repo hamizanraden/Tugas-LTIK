@@ -4,6 +4,7 @@
 #Kelas : 1C
 #####################################
 
+#menghitung nilai rata rata
 
 def totalangka(*angka):
     if len(angka) == 0:
